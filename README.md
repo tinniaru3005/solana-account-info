@@ -1,5 +1,7 @@
 ![solana-app](https://user-images.githubusercontent.com/62856848/198318376-1257594d-bcee-4482-a57b-0bd960f91ab2.png)
 
+**Read data from the network**
+
 - Put a valid address into the form field and click “Check SOL Balance” to see both the Address and Balance populate below.
 - Invalid addresses show error messages
 - Display whether the account is an executable account or not. 
